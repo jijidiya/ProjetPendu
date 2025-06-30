@@ -59,6 +59,6 @@ Chaque membre du groupe a travaillé sur une ou plusieurs classes. Le projet a e
 
 ## Licence
 
-Aucune licence hein
+Toute utilisation sans permission de ce compte va vous couter cher !!!!
 
 
