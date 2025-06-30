@@ -4,8 +4,8 @@
 
 ## Description du projet
 
-Ce projet a été réalisé dans le cadre du cours de Java.  
-Il implémente le jeu du Pendu
+Ce projet a été réalisé dans le cadre du *cours de Java*.  
+Il implémente le jeu du *Pendu*
 
 Le joueur doit deviner un mot choisi aléatoirement dans un fichier texte, avec un nombre d’essais limité en fonction du niveau sélectionné. À chaque erreur, une partie du pendu se dessine(directement ou pas en fonction du niveau).
 ---
